@@ -4,7 +4,7 @@ using System.Diagnostics;
 
 namespace BulkyWeb.Areas.Customer.Controllers
 {
-    [Area("Cutomer")]
+    [Area("Customer")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
